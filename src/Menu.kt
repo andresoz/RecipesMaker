@@ -1,5 +1,5 @@
 class Menu {
-    
+
     fun printmenu(){
         val menu = """
         
